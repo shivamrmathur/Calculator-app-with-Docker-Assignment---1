@@ -1,12 +1,12 @@
 
-# Simple Calculator App
+Calculator App with Docker
 
 ## Author
 Name: Shivam Mathur  
 Roll Number: G23AI2103
 
 ## Overview
-This project is a simple calculator web application built using Python and Flask. The application allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division through a web interface. The project is containerized using Docker, ensuring consistent environments for development, testing, and production.
+This project is a calculator web application built using Python and Flask. The application allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division through a web interface. The project is containerized using Docker, ensuring consistent environments for development, testing, and production.
 
 ## Table of Contents
 1. [Features](#features)
